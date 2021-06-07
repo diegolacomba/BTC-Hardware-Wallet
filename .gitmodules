@@ -1,0 +1,3 @@
+[submodule "esp32_embit"]
+	path = esp32_embit
+	url = https://github.com/stepansnigirev/esp32_embit
